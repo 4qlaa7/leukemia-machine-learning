@@ -1,12 +1,12 @@
 # leukemia-machine-learning
 
-- This is a Machine Learning Project on a leukemia Calssification
-- Data set from kaggle
-- we used Vgg16 and Resnet101v2 we used the previous models after some preprocessing
+- This is a Machine Learning Project on leukemia Classification
+- Data set from Kaggle
+- I used Vgg16 and Resnet101v2 the previous models were used after some preprocessing
 - preprocessing :
      - Augmentation
      - resizing
-     - croping
+     - cropping
 
 
-Data set Link : https://www.kaggle.com/datasets/andrewmvd/leukemia-classification
+Data set Link: https://www.kaggle.com/datasets/andrewmvd/leukemia-classification
